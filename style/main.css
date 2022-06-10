@@ -105,3 +105,23 @@ header nav a:hover{
 .carrossel-filmes{
     margin-top: 5px;
 }
+
+footer{
+    text-decoration: none;
+    margin-bottom: 0px;
+    padding:15px;
+    color: #a78c8d;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+div footer{
+
+    background-color: #272626;
+}
+div footer a{
+    color: #a78c8d;
+    text-decoration:none;
+}
+div footer a:hover{
+    text-decoration:dashed;
+    color:white;
+}
